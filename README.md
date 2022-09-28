@@ -59,6 +59,6 @@
 </ol>
 <hr>
 
-I really loved this katas, which gaves me the opportunity to improve myself with some good new algos and, why not, help me a lot to crack a lot of code interviews; I try to keep this repository updated.
+> I really loved this katas, which gaves me the opportunity to improve myself with some good new algos and, why not, help me a lot to crack a lot of code interviews; I   try to keep this repository updated.
 
 [^note]: (All the C solutions were thought for Uni purpose only, so I did not paid a lot of attention to algo complexity)
