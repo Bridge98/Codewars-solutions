@@ -1,5 +1,5 @@
 # Codewars solutions
-## All my CodeWars katas!
+<b>All my CodeWars katas!</b>
 
 ### <b>5 kyu</b>
 <ol>
