@@ -1,6 +1,6 @@
 # Codewars solutions
 <b>All my CodeWars katas!</b>
-> I really loved this katas, which gaves me the opportunity to improve myself with some good new algos and, why not, help me a lot to crack a lot of code interviews;
+> I really loved this katas, which gaves me the opportunity to improve myself finding out new algorithms and, why not, to crack a lot of code interviews;
 > I try to keep this repository updated.
 
 ### <b>5 kyu</b>:
