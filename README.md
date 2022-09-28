@@ -56,12 +56,12 @@
 <hr>
 * <b>8 kyu</b>
 <ol>
-<li>[Multiply - C](https://www.codewars.com/kata/50654ddff44f800200000004/train/c/5fef98469515120021b0e19b)</li>
+<li>[Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/c/5fef98469515120021b0e19b) - C</li>
 </ol>
 <hr>
 (All the C solutions were thought for Uni purpose only, so I did not paid a lot of attention to algo complexity)
 <hr>
 
 I really loved this katas, which gaves me the opportunity to improve myself with some good new algos and, why not, help me a lot to crack a lot of code interviews.
-<hr>
+
 ### I try to keep this repository updated.
