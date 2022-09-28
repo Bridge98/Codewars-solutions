@@ -1,15 +1,14 @@
 # Codewars solutions
 ## All my CodeWars katas!
 
-<hr>
-* <b>5 kyu</b>
+### <b>5 kyu</b>
 <ol>
 <li>[Second Variation on Caesar Cipher](https://www.codewars.com/kata/55084d3898b323f0aa000546/train/go/60b7a990fe0682000da0cb56) - Go</li>
 <li>[ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001/train/javascript/61b92b7444ec79001fa781dd) - JS</li>
 <li>[First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/go/606764081e7e2b00269b7564) - Go</li>
 </ol>
-<hr>
-* <b>6 kyu</b>:
+
+### <b>6 kyu</b>:
 <ol>
 <li>[Ease the StockBroker](https://www.codewars.com/kata/54de3257f565801d96001200/train/javascript/61713ddba74c8a002c7c781a) - JS</li>
 <li>[Look and say numbers](https://www.codewars.com/kata/53ea07c9247bc3fcaa00084d/train/python/62de9b4a14c77d0016d593da) - python</li>
@@ -43,8 +42,8 @@
 <li>[Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/go/603193c7fe5c8700131d919c) - Go</li>
 <li>[Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/c/602ce0029a1edc0012f46e91) - C</li>
 </ol>
-<hr>
-* <b>7 kyu</b>
+
+### <b>7 kyu</b>
 <ol>
 <li>[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript/60339b69e31d0c0026cc5fba) - JS</li>
 <li>[Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/javascript/6031a577c8ff730026ff403a) - JS</li>
@@ -53,8 +52,8 @@
 <li>[Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/go/602ea7d0bca31f001cbc30a6) - Go</li>
 <li>[Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/c/602d293ec02209000e6693ac) - C</li>
 </ol>
-<hr>
-* <b>8 kyu</b>
+
+### <b>8 kyu</b>
 <ol>
 <li>[Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/c/5fef98469515120021b0e19b) - C</li>
 </ol>
@@ -62,6 +61,4 @@
 (All the C solutions were thought for Uni purpose only, so I did not paid a lot of attention to algo complexity)
 <hr>
 
-I really loved this katas, which gaves me the opportunity to improve myself with some good new algos and, why not, help me a lot to crack a lot of code interviews.
-
-### I try to keep this repository updated.
+I really loved this katas, which gaves me the opportunity to improve myself with some good new algos and, why not, help me a lot to crack a lot of code interviews; I try to keep this repository updated.
